@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/DemoApi/DemoApi.csproj" />
+  <Project Path="src/DemoApi.Domain/DemoApi.Domain.csproj" />
+  <Project Path="src/DemoApi.Application/DemoApi.Application.csproj" />
+  <Project Path="src/DemoApi.Infrastructure/DemoApi.Infrastructure.csproj" />
+</Solution>
